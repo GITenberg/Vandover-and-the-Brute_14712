@@ -1,0 +1,31 @@
+_repo: Vandover-and-the-Brute_14712
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Norris, Frank
+    alias: Norris, Benjamin Franklin
+    birthdate: 1870
+    deathdate: 1902
+    gutenberg_agent_id: '103'
+    url: http://www.gutenberg.org/2009/agents/103
+    wikipedia: http://en.wikipedia.org/wiki/Frank_Norris
+description: Set in San Francisco, Vandover is the story of a rich young man who desires
+  to become a great artist but lacks the ambition to do so. Suicide, death, gambling,
+  and a lost fortune swirl around the young man, reducing him to menial work in the
+  very slums he once owned. Vandover is an early example of American literary naturalism.
+gutenberg_issued: '2005-01-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14712'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PS'
+title: Vandover and the Brute
+url: http://www.gutenberg.org/ebooks/14712
